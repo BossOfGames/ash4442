@@ -1,7 +1,8 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div style="position: absolute; top: 0; z-index: -50;background: center no-repeat url('/cover.jpg'); background-size: cover; height: 100vh; width: 100vw;">
+      <div style="background: #000; width: 100%; height: 100%; opacity: .55;"></div>
+    </div>
   </div>
 </template>
 
