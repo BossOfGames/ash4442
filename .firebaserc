@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "taylorbroad-com"
+  },
+  "targets": {
+    "taylorbroad-com": {
+      "hosting": {
+        "japan": [
+          "ash4442"
+        ]
+      }
+    }
+  }
+}

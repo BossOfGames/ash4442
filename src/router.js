@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
+import Tokugawa from './views/Tokugawa'
 
 Vue.use(Router)
 
@@ -13,6 +14,11 @@ export default new Router({
       name: 'home',
       component: Home
     },
+      {
+          path: '/tokugawa',
+          name: 'tokugawa',
+          component: Tokugawa
+      },
     {
       path: '/about',
       name: 'about',
