@@ -27,7 +27,7 @@
             </div>
             <h2>Outside Of The Structure</h2>
             <p>
-                However, if one didn’t fit within the four class structures, they were considered outcasts.
+                However, if one did not fit within the four class structures, they were considered outcasts.
                 These outcasts were delegated work that was considered lower from society, like burials, executions, and
                 the handling of animal carcasses. (Gordon, p.18)
             </p>

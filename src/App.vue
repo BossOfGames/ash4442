@@ -2,9 +2,8 @@
 <div id="app">
    <nav>
     <div class="nav-wrapper">
-      <a href="#" class="brand-logo" style="padding-left: 1rem;">Whom is Japanese</a>
+      <a href="#" class="brand-logo" style="padding-left: 1rem;">Who is Japanese</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <router-link to="/tokugawa" tag="li"><a>Tokugawa</a></router-link>
       </ul>
     </div>
   </nav>
